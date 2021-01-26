@@ -15,7 +15,6 @@ SVM (RandomisedSeach),0.39,,Linear,1,0.0001,OVR
 ,Cause 4,18,10,5,1010,16
 ,Cause 5,5,11,2,357,12
 ,,,,,,
-,,,,,,
 ,SVM Confusion Matrix,,,,,
 ,,Cause 1,Cause 2,Cause 3,Cause 4,Cause 5
 ,Cause 1,0,0,0,446,0
